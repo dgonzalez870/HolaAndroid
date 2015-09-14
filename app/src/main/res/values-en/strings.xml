@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">HolaAndroid</string>
-    <string name="string_saludo">¡¡Hola Android!!</string>
+    <string name="string_saludo">¡¡Hello Android!!</string>
 </resources>
