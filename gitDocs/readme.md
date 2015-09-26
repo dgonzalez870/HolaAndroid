@@ -159,7 +159,7 @@ El código debe ser el siguiente
 </manifest>
 ```
 Con los pasos anteriores se ha declarado el **Activity** como un componente de la aplicación en el manifiesto y además se le ha dado los atributos para ser el punto de entrada de la aplicación. En este punto la aplicación ya puede ser instalada y ejecutada en un dispositivo. Una vez que la aplicación se ejecute este Activty será lo primero que se despliegue en la pantalla.
-<a href="">
+<a href="emulador.md">
 <p align="right">Siguiente: Configuración del Emulador</p></a>
 
 
