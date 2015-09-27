@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent" android:layout_height="wrap_content"
-    android:gravity="center">
+    android:gravity="center"
+    android:orientation="vertical">
 
     <TextView
         android:layout_width="wrap_content"
@@ -10,5 +11,21 @@
         android:id="@+id/textView"
         android:textStyle="bold"
         android:textSize="40sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mensaje"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal"
+        android:onClick="saludar" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Iniciar Activity"
+        android:id="@+id/button2"
+        android:layout_gravity="center_horizontal"
+        android:onClick="iniciarSaludo" />
 
 </LinearLayout>
