@@ -10,6 +10,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".SaludoActivity"/>
+        <activity android:name=".ResultadoActivity"/>
+        <activity android:name=".PersonalActivity"/>
     </application>
 
 </manifest>

@@ -29,7 +29,7 @@ A continuación se describen los pasos para crear un proyecto básico en **Andro
 ![Add No Activity](/capturas/adnoactivity.png)
 8. En el explorador del proyecto, ubicado en la parte izquierda de la pantalla, en vista modo **Android**, ir al nodo **app>manifest>AndroidManifest.xml**.
 
-![vista explorer](/capturas/explorer.png)
+![vista explorer](capturas/explorer.png)
 
 La vista del archivo debe ser la siguiente:
 ```xml
